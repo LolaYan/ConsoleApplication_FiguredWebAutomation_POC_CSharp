@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConsoleApplication_FiguredWebAutomation.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="timeWaitInSeconds" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="DriversLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LoginURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://my.figured.com/login</Value>
+    </Setting>
+    <Setting Name="HomeURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://my.figured.com/</Value>
+    </Setting>
+    <Setting Name="OrgAddURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://my.figured.com/organisation/add</Value>
+    </Setting>
+    <Setting Name="DemoFarmURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://my.figured.com/demo</Value>
+    </Setting>
+    <Setting Name="Browser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CHROME</Value>
+    </Setting>
+    <Setting Name="UserEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">lolayan@outlook.com</Value>
+    </Setting>
+    <Setting Name="UserPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yhx7886708</Value>
+    </Setting>
+    <Setting Name="NewAccountURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://my.figured.com/farms/accountant_new</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

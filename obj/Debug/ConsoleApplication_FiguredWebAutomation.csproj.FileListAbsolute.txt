@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\AutomationSolution\ConsoleApplication_FiguredWebAutomation\bin\Debug\ConsoleApplication_FiguredWebAutomation.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\AutomationSolution\ConsoleApplication_FiguredWebAutomation\bin\Debug\ConsoleApplication_FiguredWebAutomation.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\AutomationSolution\ConsoleApplication_FiguredWebAutomation\bin\Debug\ConsoleApplication_FiguredWebAutomation.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\AutomationSolution\ConsoleApplication_FiguredWebAutomation\bin\Debug\appium-dotnet-driver.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\AutomationSolution\ConsoleApplication_FiguredWebAutomation\bin\Debug\Castle.Core.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\AutomationSolution\ConsoleApplication_FiguredWebAutomation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\AutomationSolution\ConsoleApplication_FiguredWebAutomation\bin\Debug\WebDriver.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\AutomationSolution\ConsoleApplication_FiguredWebAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\AutomationSolution\ConsoleApplication_FiguredWebAutomation\bin\Debug\appium-dotnet-driver.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\AutomationSolution\ConsoleApplication_FiguredWebAutomation\bin\Debug\Castle.Core.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\AutomationSolution\ConsoleApplication_FiguredWebAutomation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\AutomationSolution\ConsoleApplication_FiguredWebAutomation\bin\Debug\WebDriver.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\AutomationSolution\ConsoleApplication_FiguredWebAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\AutomationSolution\ConsoleApplication_FiguredWebAutomation\obj\Debug\ConsoleApplication_FiguredWebAutomation.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\AutomationSolution\ConsoleApplication_FiguredWebAutomation\obj\Debug\ConsoleApplication_FiguredWebAutomation.pdb
